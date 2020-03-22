@@ -1,10 +1,10 @@
 # Site settings
 title: xuenhua's page
-SEOTitle: xuenhua,软件,感悟,人生哲理,休闲,新闻,News,Physics,Software,Java,Nodejs,Python,Vue,js,Linux,blog
+SEOTitle: 且放白鹿青崖间，须行即骑访名山
 header-img: img/home-bg-o.jpg
 email: xuenhua2008@sina.com
 description: "真传一句话，假传万卷书"
-keyword: "xuenhua"
+keyword: "xuenhua,软件,感悟,人生哲理,休闲,新闻,News,Physics,Software,Java,Nodejs,Python,Vue,js,Linux,blog"
 url: "https://xuenhua.github.io/xuenhua"              # your host, for absolute URL
 baseurl: "/xuenhua"                                   # for example, '/blog' if your blog hosted on 'host/blog'
 
