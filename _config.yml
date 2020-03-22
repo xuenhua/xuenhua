@@ -6,7 +6,7 @@ email: xuenhua2008@sina.com
 description: "真传一句话，假传万卷书"
 keyword: "xuenhua"
 url: "https://xuenhua.github.io/xuenhua"              # your host, for absolute URL
-baseurl: ""                                           # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/xuenhua"                                   # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
