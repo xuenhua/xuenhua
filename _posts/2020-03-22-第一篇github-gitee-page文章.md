@@ -5,7 +5,7 @@ title:      第一篇Github Page/Gitee Page 文章
 subtitle:   Github Page Gitee Page
 date:       2020-03-22
 author:     xuenhua
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
     - github
