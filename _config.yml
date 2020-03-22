@@ -1,7 +1,7 @@
 # Site settings
 title: xuenhua's page
 SEOTitle: xuenhua的博客
-header-img: img/home-bg.jpg
+header-img: img/home-bg-o.jpg
 email: xuenhua2008@sina.com
 description: "真传一句话，假传万卷书"
 keyword: "xuenhua"
@@ -68,7 +68,7 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 0492172d5b7e0ba908e8f3ed2bf12c4d
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "真传一句话，假传万卷书"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,10 +103,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "xuenhua",
-        href: "http://xuenhua.github.io/"
+        title: "xuenhua@github",
+        href: "http://xuenhua.github.io/xuenhua"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
+        title: "xuenhua@gitee",
+        href: "https://xuenhua.gitee.io/"
     }
 ]
