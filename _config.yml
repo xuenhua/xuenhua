@@ -80,7 +80,7 @@ ba_track_id: 8d17b7e9967983550205bffd25dd352e
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "真传一句话，假传万卷书"
-sidebar-avatar: /img/avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
