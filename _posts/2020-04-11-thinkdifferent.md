@@ -81,9 +81,11 @@ tags:
 
 不管时代怎么更替，世人得不到满足的欲望总是那么多，只能寄希望于神佛。谁都有求而不得的痛苦，如果相信，能让你比较快乐的话，那就当做是让自己快乐一点也好。
 
+美言可以市尊，美行可以加人。君子相送以言，小人相送以财。
 
+置之死地而后生。
 
-
+夫民不可虑始，
 
 
 [![](https://github.com/xuenhua/xuenhua/blob/master/img/ads/ali.jpg?raw=true)](https://s.click.taobao.com/t?e=m%3D2%26s%3D7ngZThCwaCUcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAkIrrC3KoeznlGm4gdHtBuLzb2M2f%2FoaoHRTtLCoLbOHFQZVrNNFjh9uK2ud60h6lE1WovaI4eZxiYWStHE%2B0ceFSvfO0N66nzO5MaXTjVACe2l9FrhMrdPv%2BfHIT3CFRNdvthxiSWPsdnn9YK8Mk5jfleFWJLnarYaVo1qVTQzCfw%2F8dhe%2BNbDGDmntuH4VtA%3D%3D)
