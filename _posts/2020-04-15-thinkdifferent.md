@@ -4,7 +4,7 @@ title:      犀牛角和水牛角一样吗
 subtitle:   
 date:       2020-04-15
 author:     xuenhua
-header-img: img/post-bg-rwd.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - 自然
